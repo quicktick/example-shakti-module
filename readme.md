@@ -14,6 +14,7 @@ Then at the start of your program run:
 
 ```
 \l ./node_modules/shakti-require/require.k
+.require.initialize[]
 ```
 
 You then require other modules like this:

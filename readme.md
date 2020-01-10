@@ -1,6 +1,6 @@
 # example-shakti-module
 
-An example [Shakti](https://shakti.com/)) module
+An example [Shakti](https://shakti.com/) module
 
 Install [Yarn](https://yarnpkg.com/lang/en/)
 

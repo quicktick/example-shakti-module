@@ -2,5 +2,9 @@
   "name": "example-shakti-module",
   "version": "1.0.0",
   "description": "Example Shakti Module",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quicktick/example-shakti-module.git"
+  }
 }

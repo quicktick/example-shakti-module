@@ -14,11 +14,11 @@ Then at the start of your program run:
 
 ```
 \l ./node_modules/shakti-require/require.k
-.require.initialize[]
+.rq.init[]
 ```
 
 You then require other modules like this:
 ```
-.require.require["example-shakti-module"] / loads the module from ./node_modules
+.rq.require["example-shakti-module"] / loads the module from ./node_modules
 .example.add[1;2]
 ```
